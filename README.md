@@ -15,9 +15,10 @@ This curiosity sparked the idea for a data-driven approach to discovering the be
 
 ## Data Content
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [**here.**](https://github.com/bryanng77/Uncovering-the-Best-Bowls-of-Ramen-from-Around-the-World/blob/main/Data%20Cleaning_Ramen%20Analysis.sql)
 
-Targeted SQL Queries regarding various business questions can be found here.
+Targeted SQL Queries regarding various business questions can be found [**here.**](https://github.com/bryanng77/Uncovering-the-Best-Bowls-of-Ramen-from-Around-the-World/blob/main/SQL%20Insights%20Query.sql)
+
 
 ## Data Structure and Initial Checks
 
@@ -25,7 +26,7 @@ The database structure as seen below consists of a single table, **ramen_ratings
 
 ![Screenshot 2025-02-05 at 5 14 23 PM](https://github.com/user-attachments/assets/662b3cbe-6d3b-4fc7-b80b-64b9338e256b)
 
-Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found here.
+Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found [**here.**](https://github.com/bryanng77/Uncovering-the-Best-Bowls-of-Ramen-from-Around-the-World/blob/main/Data%20Cleaning_Ramen%20Analysis.sql)
 
 ## Dashboard
 
