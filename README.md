@@ -6,6 +6,7 @@ Ramen is more than just a meal; it’s a culinary experience that blends culture
 This project leverages SQL and Power BI to analyze a comprehensive dataset of ramen reviews, covering brands, styles, countries, and ratings. The goal is to identify trends, determine the top-rated ramen brands, and explore how different styles and regions influence ramen quality.
 
 As someone who loves both data and ramen, I often find myself exploring different brands and flavors, wondering which ones truly stand out. Every time I try a new ramen, I question:
+
 🤔 "Is this one of the best?"
 🤔 "How does it compare to others around the world?"
 
