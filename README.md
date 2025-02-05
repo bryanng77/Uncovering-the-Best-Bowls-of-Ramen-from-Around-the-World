@@ -18,7 +18,7 @@ This curiosity sparked the idea for a data-driven approach to discovering the be
 ## Dashboard
 
 ## Overview of Key Findings
-1. Global Ramen Insights
+1️⃣ Global Ramen Insights
 
 Average Ramen Rating: 3.65 / 5.0
 
@@ -26,9 +26,9 @@ Highest Ramen Rating: 5.0 / 5.0
 
 Lowest Ramen Rating: 0.0 / 5.0
 
-2. Top-Rated Ramen Brands (Min. 10 Reviews)
+2️⃣ Top-Rated Ramen Brands (Min. 10 Reviews)
 
-The highest-rated brands include:
+The highest-rated brands include: (ordered by Alphabetical Order)
 
 🥇 Higashi (5.0 ⭐)
 
