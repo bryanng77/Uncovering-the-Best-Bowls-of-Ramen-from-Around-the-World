@@ -83,24 +83,31 @@ This variety, known for its bold Thai flavors, received a perfect score, making 
 This Ramen Data Analytics Project successfully combined SQL and Power BI to analyze a dataset of 2,580 ramen reviews spanning 355 brands and 38 countries, uncovering key insights into the best-rated ramen varieties, top-performing brands, and dominant ramen styles worldwide.
 
 ### Key Takeaways & Supporting Data
+
 ✅ Global Ramen Landscape:
-The dataset covered 7 unique ramen styles, with Pack ramen being the most commonly reviewed.
-The average ramen rating was 3.65 out of 5.0, indicating a generally positive consumer sentiment.
+
+- The dataset covered 7 unique ramen styles, with Pack ramen being the most commonly reviewed.
+
+- The average ramen rating was 3.65 out of 5.0, indicating a generally positive consumer sentiment.
 
 ✅ Top Ramen Brands:
-Brands such as Higashi, ORee Garden, The Bridge, Tao Kae Noi, and Takamori consistently received perfect 5.0-star ratings (minimum 10 reviews), reflecting high product quality and consumer satisfaction.
+
+- Brands such as Higashi, ORee Garden, The Bridge, Tao Kae Noi, and Takamori consistently received perfect 5.0-star ratings (minimum 10 reviews), reflecting high product quality and consumer satisfaction.
 
 ✅ Best Countries for Ramen:
-Brazil unexpectedly led the rankings with an average rating of 4.35, followed by Sarawak (4.33), Cambodia (4.20), Malaysia (4.15), and Singapore (4.13)—showcasing strong ramen culture in Southeast Asia.
+
+- Brazil unexpectedly led the rankings with an average rating of 4.35, followed by Sarawak (4.33), Cambodia (4.20), Malaysia (4.15), and Singapore (4.13)—showcasing strong ramen culture in Southeast Asia.
 
 ✅ Top-Rated Ramen Variety:
-The best-rated ramen was Tao Kae Noi's Creamy Tom Yum Kung Flavour (Pack) from Thailand, achieving a perfect 5.0/5.0 rating.
+
+- The best-rated ramen was Tao Kae Noi's Creamy Tom Yum Kung Flavour (Pack) from Thailand, achieving a perfect 5.0/5.0 rating.
 
 ✅ Data Cleaning & Integrity Checks:
 
-The dataset underwent extensive quality checks, including handling missing values, removing duplicates, standardizing country names, and converting ratings to numerical values to ensure accuracy in analysis.
+- The dataset underwent extensive quality checks, including handling missing values, removing duplicates, standardizing country names, and converting ratings to numerical values to ensure accuracy in analysis.
 Impact & Value of this Project
-This project highlights my ability to:
+
+**This project highlights my ability to:**
 ✔ Extract and transform raw data using SQL for structured analysis.
 ✔ Perform complex queries to uncover meaningful trends and patterns.
 ✔ Create interactive visualizations in Power BI to bring insights to life.
