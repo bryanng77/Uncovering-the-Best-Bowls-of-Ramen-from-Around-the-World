@@ -108,9 +108,13 @@ This Ramen Data Analytics Project successfully combined SQL and Power BI to anal
 Impact & Value of this Project
 
 **This project highlights my ability to:**
+
 ✔ Extract and transform raw data using SQL for structured analysis.
+
 ✔ Perform complex queries to uncover meaningful trends and patterns.
+
 ✔ Create interactive visualizations in Power BI to bring insights to life.
+
 ✔ Apply data storytelling techniques, making insights engaging and actionable.
 
 Beyond just ramen, this project demonstrates how data analytics can transform everyday interests into strategic decision-making tools. The ability to collect, clean, analyze, and visualize data is essential in business intelligence, market research, and consumer analytics.
