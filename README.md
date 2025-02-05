@@ -15,6 +15,18 @@ This curiosity sparked the idea for a data-driven approach to discovering the be
 
 ## Data Content
 
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
+
+Targeted SQL Queries regarding various business questions can be found here.
+
+## Data Structure and Initial Checks
+
+The database structure as seen below consists of a single table, **ramen_ratings**, with a total row count of 2580 records.
+
+![Screenshot 2025-02-05 at 5 14 23 PM](https://github.com/user-attachments/assets/662b3cbe-6d3b-4fc7-b80b-64b9338e256b)
+
+Before beginning the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform the quality checks can be found here.
+
 ## Dashboard
 
 ## Overview of Key Findings
