@@ -13,23 +13,31 @@ As someone who loves both data and ramen, I often find myself exploring differen
 
 This curiosity sparked the idea for a data-driven approach to discovering the best ramen. As a Data Analyst, I believe insights hidden within data can help uncover patterns and trends that will allow me know which Ramen is the BEST!
 
+## Data Content
 
+## Dashboard
 
-Executive Summary – Ramen Data Analytics Project 🍜📊
-Introduction
-The Ramen Data Analytics Project is an exploration of global ramen trends using SQL and Power BI, combining data analytics with a passion for ramen. With 2,580 ramen reviews from 355 brands across 38 countries, this project uncovers insights into the best-rated ramen, the top-performing countries, and the most popular ramen styles.
-
-Key Findings
+## Overview of Key Findings
 1. Global Ramen Insights
+
 Average Ramen Rating: 3.65 / 5.0
+
 Highest Ramen Rating: 5.0 / 5.0
+
 Lowest Ramen Rating: 0.0 / 5.0
+
 2. Top-Rated Ramen Brands (Min. 10 Reviews)
+
 The highest-rated brands include:
+
 🥇 Higashi (5.0 ⭐)
+
 🥈 ORee Garden (5.0 ⭐)
+
 🥉 The Bridge (5.0 ⭐)
+
 4️⃣ Tao Kae Noi (5.0 ⭐)
+
 5️⃣ Takamori (5.0 ⭐)
 
 These brands consistently received perfect ratings, indicating exceptional product quality and consumer satisfaction.
