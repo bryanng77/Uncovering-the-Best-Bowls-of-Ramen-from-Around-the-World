@@ -57,17 +57,20 @@ These brands consistently received perfect ratings, indicating exceptional produ
 
 3. Best Ramen-Producing Countries 🌍
 The top 5 countries with the highest average ramen ratings (min. 10 reviews):
-1️⃣ 🇧🇷 Brazil – 4.35 ⭐
-2️⃣ 🇲🇾 Sarawak – 4.33 ⭐
-3️⃣ 🇰🇭 Cambodia – 4.20 ⭐
-4️⃣ 🇲🇾 Malaysia – 4.15 ⭐
-5️⃣ 🇸🇬 Singapore – 4.13 ⭐
+1. 🇧🇷 Brazil – 4.35 ⭐
+2. 🇲🇾 Sarawak – 4.33 ⭐
+3. 🇰🇭 Cambodia – 4.20 ⭐
+4. 🇲🇾 Malaysia – 4.15 ⭐
+5. 🇸🇬 Singapore – 4.13 ⭐
 
 Southeast Asia dominates the rankings, but Brazil unexpectedly takes the top spot.
 
-4. Most Popular Ramen Style
-🍜 "Pack" ramen is the most commonly reviewed style, indicating its global preference over other types like Cup, Bowl, and Tray ramen.
-5. Best Rated Ramen Variety
+4️⃣ Most Popular Ramen Style
+
+🍜 "Packed" ramen is the most commonly reviewed style, indicating its global preference over other types like Cup, Bowl, and Tray ramen.
+
+
+5️⃣ Best Rated Ramen Variety
 🥇 Tao Kae Noi – Creamy Tom Yum Kung Flavour (Pack)
 🌍 Country: Thailand
 ⭐ Rating: 5.0 / 5.0
