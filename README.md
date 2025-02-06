@@ -35,7 +35,7 @@ Before beginning the analysis, various checks were conducted for quality control
 
 ## Overview of Key Findings
 
-1️⃣ General Overview
+#### 1️⃣ General Overview
 
 Total Reviews: 2,578, indicating a substantial dataset covering various ramen brands and varieties.
 
@@ -47,7 +47,7 @@ Total Ramen Styles: 7, highlighting different types of ramen available, includin
 
 📌 Key Takeaway: The dataset covers a wide range of brands, styles, and global ramen variations, making it valuable for identifying consumer trends and regional preferences.
 
-2️⃣ Ramen Style Distribution
+#### 2️⃣ Ramen Style Distribution
 
 The "Review by Ramen Styles" pie chart shows that the majority of the reviews are for Cup-style ramen, followed by other styles like Pack, Bowl, and Tray.
 
@@ -55,7 +55,7 @@ There seems to be an issue with the labeling of "OK" in the chart, which may req
 
 📌 Key Takeaway: Cup ramen dominates the dataset, suggesting it is the most commonly reviewed style. This could indicate a higher consumer preference or availability compared to other styles.
 
-3️⃣ Best Rated Ramen Varieties
+#### 3️⃣ Best Rated Ramen Varieties
 
 The top-rated ramen varieties include:
 
@@ -65,7 +65,7 @@ Flavored varieties like Beef, Chicken, and Curry Udon perform well, suggesting s
 
 📌 Key Takeaway: Savory and umami-rich flavors like Yakiboba, Beef, and Chicken receive higher ratings, indicating a strong consumer preference for rich, hearty ramen flavors.
 
-4️⃣ Top Reviewed Ramen Brands
+#### 4️⃣ Top Reviewed Ramen Brands
 
 Nissin is the most reviewed brand by a significant margin, followed by:
 
