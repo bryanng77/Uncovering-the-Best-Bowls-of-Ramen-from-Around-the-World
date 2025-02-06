@@ -30,6 +30,9 @@ Before beginning the analysis, various checks were conducted for quality control
 
 ## Dashboard
 
+<img width="1007" alt="Screenshot 2025-02-06 at 4 44 08 PM" src="https://github.com/user-attachments/assets/cdf7099b-77e9-412e-8073-5d74762ba129" />
+
+
 ## Overview of Key Findings
 1️⃣ Global Ramen Insights
 
