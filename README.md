@@ -34,56 +34,44 @@ Before beginning the analysis, various checks were conducted for quality control
 
 
 ## Overview of Key Findings
-1️⃣ Global Ramen Insights
 
-Average Ramen Rating: 3.65 / 5.0
+1️⃣ General Overview
 
-Highest Ramen Rating: 5.0 / 5.0
+Total Reviews: 2,578, indicating a substantial dataset covering various ramen brands and varieties.
 
-Lowest Ramen Rating: 0.0 / 5.0
+Total Brands: 353, showing a highly diverse selection of ramen producers.
 
-2️⃣ Top-Rated Ramen Brands (Min. 10 Reviews)
+Unique Countries: 38, confirming a global representation of ramen varieties.
 
-The highest-rated brands include: (ordered by Alphabetical Order)
+Total Ramen Styles: 7, highlighting different types of ramen available, including Cup, Pack, Bowl, Tray, Bar, Can, and Box.
 
-🥇 Higashi (5.0 ⭐)
+📌 Key Takeaway: The dataset covers a wide range of brands, styles, and global ramen variations, making it valuable for identifying consumer trends and regional preferences.
 
-🥈 ORee Garden (5.0 ⭐)
+2️⃣ Ramen Style Distribution
 
-🥉 The Bridge (5.0 ⭐)
+The "Review by Ramen Styles" pie chart shows that the majority of the reviews are for Cup-style ramen, followed by other styles like Pack, Bowl, and Tray.
 
-4️⃣ Tao Kae Noi (5.0 ⭐)
+There seems to be an issue with the labeling of "OK" in the chart, which may require a data check.
 
-5️⃣ Takamori (5.0 ⭐)
+📌 Key Takeaway: Cup ramen dominates the dataset, suggesting it is the most commonly reviewed style. This could indicate a higher consumer preference or availability compared to other styles.
 
-These brands consistently received perfect ratings, indicating exceptional product quality and consumer satisfaction.
+3️⃣ Best Rated Ramen Varieties
 
-3️⃣ Best Ramen-Producing Countries 🌍
-The top 5 countries with the highest average ramen ratings (min. 10 reviews):
-1. 🇧🇷 Brazil – 4.35 ⭐
-2. 🇲🇾 Sarawak – 4.33 ⭐
-3. 🇰🇭 Cambodia – 4.20 ⭐
-4. 🇲🇾 Malaysia – 4.15 ⭐
-5. 🇸🇬 Singapore – 4.13 ⭐
+The top-rated ramen varieties include:
 
-Southeast Asia dominates the rankings, but Brazil unexpectedly takes the top spot.
+Yakiboba, Beef, Chicken, Instant Noodles, Artificial Chicken, Curry Udon, Vegetable
 
-4️⃣ Most Popular Ramen Style
+Flavored varieties like Beef, Chicken, and Curry Udon perform well, suggesting savory and traditional flavors are consumer favorites.
 
-🍜 "Packed" ramen is the most commonly reviewed style, indicating its global preference over other types like Cup, Bowl, and Tray ramen.
+📌 Key Takeaway: Savory and umami-rich flavors like Yakiboba, Beef, and Chicken receive higher ratings, indicating a strong consumer preference for rich, hearty ramen flavors.
 
-5️⃣ Best Rated Ramen Variety
+4️⃣ Top Reviewed Ramen Brands
 
-🥇 Tao Kae Noi – Creamy Tom Yum Kung Flavour (Pack)
+Nissin is the most reviewed brand by a significant margin, followed by:
 
-🌍 Country: Thailand
+MAMA, Nongshim, Maruchan, Paldo, Myojo, Indomie, Samyang, Ottogi, KOKA
 
-⭐ Rating: 5.0 / 5.0
-
-This variety, known for its bold Thai flavors, received a perfect score, making it one of the most highly recommended ramen options.
-
-## Conclusion
-This Ramen Data Analytics Project successfully combined SQL and Power BI to analyze a dataset of 2,580 ramen reviews spanning 355 brands and 38 countries, uncovering key insights into the best-rated ramen varieties, top-performing brands, and dominant ramen styles worldwide.
+These brands are well-known global ramen manufacturers, with some specializing in spicy ramen varieties (e.g., Samyang) and others excelling in traditional flavors (e.g., Nissin, Maruchan, Indomie).
 
 ### Key Takeaways & Supporting Data
 
